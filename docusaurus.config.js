@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'The Noria Network',
   tagline: 'A stable currency denominated, accessability focused, open, decentralized financial network',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/noria.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -61,7 +61,7 @@ const config = {
         title: 'Noria',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/noria.png',
         },
         items: [
           {
