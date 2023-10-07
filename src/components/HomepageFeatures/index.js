@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Universal Access to Reliable Money',
+     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default, // Replace with your custom icon
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The Noria Network is dedicated to providing universal access to reliable money through its unique stable-denominated crypto network.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Innovative Governance Model',
+     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,// Replace with your custom icon
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We have an innovative governance model that empowers the community to make decisions, ensuring that the Noria Network remains at the forefront of decentralized networks.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Native Stable Currency',
+     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default, // Replace with your custom icon
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        The Noria Network features a native stable currency, making transactions more predictable and cost-effective for users.
       </>
     ),
   },
